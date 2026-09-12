@@ -231,3 +231,6 @@ This repository serves as the official landing page for join.me. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of join.me today!**
+
+---
+**Last updated:** 2026-09-12 07:42:01 UTC
