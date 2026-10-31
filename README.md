@@ -233,4 +233,4 @@ This repository serves as the official landing page for join.me. The software is
 **Get the most recent version of join.me today!**
 
 ---
-**Last updated:** 2026-10-30 20:25:21 UTC
+**Last updated:** 2026-10-31 00:23:56 UTC
